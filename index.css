@@ -11,3 +11,11 @@
 ul {
   list-style: none;
 }
+
+body {
+  background-color: aquamarine;
+}
+
+.hidden {
+  display: none;
+}
